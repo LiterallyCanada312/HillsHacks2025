@@ -122,7 +122,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            Registrations are now open! To register go fill out <Link href="https://docs.google.com/forms/d/e/1FAIpQLSfhXSaahYkV5PiHG3qwJ2JLud9DsSxyi0k-UgZGuLQt_bHhAw/viewform?usp=sf_link
+            Registrations are now open! To register go fill out <Link href="https://docs.google.com/forms/d/e/1FAIpQLScTMfqCA_lCq22GF5dJI-7NHUpDXHzLT3mwgkUh_7qO_v-t4Q/viewform?usp=sf_link
 ">this form</Link>
           </p>
         </AccordionItemPanel>
