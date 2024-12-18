@@ -152,7 +152,7 @@ const Index = props => (
       </a>
       <a href="https://artofproblemsolving.com/" target="_blank">
           <Image
-          src="/AoPS_Main_Logo(1).png"
+          src="/AoPS_Main_Logo (1).png"
           sx={{
             width: '100%',
             maxWidth: '360px',
