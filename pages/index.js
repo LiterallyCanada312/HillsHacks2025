@@ -150,6 +150,19 @@ const Index = props => (
           }}
         />
       </a>
+      <a href="https://artofproblemsolving.com/" target="_blank">
+          <Image
+          src="/AoPS_Main_Logo(1).png"
+          sx={{
+            width: '100%',
+            maxWidth: '360px',
+            userDrag: 'none',
+            WebkitUserDrag: 'none',
+            cursor: 'pointer',
+            borderRadius: 'extra',
+          }}
+        />
+      </a>
     </Container>
     <Container as="section" py={4} {...props}>
       <Card>
