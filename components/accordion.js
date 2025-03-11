@@ -48,7 +48,7 @@ const Faq = () => {
           <AccordionItemButton>When will hillsHacks be?</AccordionItemButton>
         </AccordionItemHeading>
         <AccordionItemPanel>
-          <p>The event will take place on March 16th, 2025. The event will be from 11:00 AM to 4:00 PM</p>
+          <p>The event will take place on April 26th, 2025. The event will be from 11:00 AM to 4:30 PM</p>
         </AccordionItemPanel>
       </AccordionItem>
       <AccordionItem>
@@ -70,7 +70,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            Yes! Every attendee will receive a hillsHacks T-shirt. Winners of the design challenge will also receive prizes!
+            Yes! Every attendee will receive a hillsHacks T-shirt. Winners of the competitive programming challenge will be able to pick from a pool of prizes!
           </p>
         </AccordionItemPanel>
       </AccordionItem>
@@ -98,7 +98,7 @@ const Faq = () => {
         <AccordionItemPanel>
           <p>
             Take a look at some of our advanced workshops! Also, we recommend
-            you to actively engage in our Panel Q&A session (this applies to
+            you to actively engage in our Panel Q&A session and compete in our competitive programming event (this applies to
             beginners too!)
           </p>
         </AccordionItemPanel>
@@ -109,8 +109,7 @@ const Faq = () => {
         </AccordionItemHeading>
         <AccordionItemPanel>
           <p>
-            Absolutely! As part of the hackathon's design challenge you can work
-            solo or in teams of up to four individuals.
+            Although we will allow teams, it is highly encouraged that you work solo for the competitive programming challenge. 
           </p>
         </AccordionItemPanel>
       </AccordionItem>
