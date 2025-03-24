@@ -24,7 +24,7 @@ const Nav = props => {
             <Image src="/icon.svg" width="36"/>
           </NavLink>
           <Box sx={{flex: '1 1 auto', justifyContent: "", margin: '3'}}>
-            <NavLink target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfhXSaahYkV5PiHG3qwJ2JLud9DsSxyi0k-UgZGuLQt_bHhAw/viewform" p={2}>
+            <NavLink target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLScTMfqCA_lCq22GF5dJI-7NHUpDXHzLT3mwgkUh_7qO_v-t4Q/viewform?usp=sf_link" p={2}>
               Register
             </NavLink>
             <NavLink href="#about" p={2}>
