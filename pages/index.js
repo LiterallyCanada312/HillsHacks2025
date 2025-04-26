@@ -117,7 +117,7 @@ const Index = props => (
         Schedule
       </Heading>
       <Image 
-        src="/schedule.jpg"
+        src="/APznzaYmTz-WX3WS2umHgEEdszfy2rysHR-z25iPOqp8qXy8y1pnoNgGqLa-tkvVaZJ7ADABlHhkzvOljTH_3M9a_WnX-mYE8PPKmh4_UEgGGw0MzqryS9IPwWomhoHO9kz3mV33iSe4T_laXFTRghkHkgC7gHCIi2JdLr1qQLxOe-PlT_keqHCGjtKVDYXdgcFkT-CD3HMw5M0JGwdqh8.jpg"
         sx={{
           width: '100%',
           maxWidth: '720px',
