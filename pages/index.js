@@ -181,7 +181,7 @@ const Index = props => (
               as="a"
               target="_blank"
               mr={4}
-              href="https://drive.google.com/file/d/1Xa4lLkreF9vQLpDoL8PfC8YcEQK9tyNt/view"
+              href="https://drive.google.com/file/d/1_pGeCsgjBPJoBectF0f7YiK0PXAKdIQ6/view?usp=sharing"
             >
               Hackathon Schedule
             </Button>
