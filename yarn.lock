@@ -351,9 +351,9 @@
   version "12.3.1"
   resolved "https://registry.npmjs.org/@next/env/-/env-12.3.1.tgz"
 
-"@next/mdx@^13.4.12":
-  version "13.4.12"
-  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-13.4.12.tgz#f81a32f693fb32ed7950969e17b406c6bb385982"
+"@next/mdx@^15.1.6":
+  version "15.1.6"
+  resolved "https://registry.yarnpkg.com/@next/mdx/-/mdx-15.1.6.tgz#c014aa1b0448304d977239bbcd581f797028b956"
   dependencies:
     source-map "^0.7.0"
 
